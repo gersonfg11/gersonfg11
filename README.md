@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Gerson, un desarrollador junior apasionado por crear soluciones innovadoras y escalables. Con experiencia tanto en el desarrollo backend como en el frontend, así como en el desarrollo full stack, me especializo en crear aplicaciones web funcionales y atractivas. Soy un firme creyente en el código abierto y la colaboración comunitaria, siempre buscando aprender y explorar nuevas tecnologías. ¡Estoy emocionado por las oportunidades futuras y disponible para discutir proyectos interesantes!
+Hello! I'm Gerson, a passionate developer with experience in both backend and frontend development, as well as full stack development. I specialize in creating functional and engaging web applications. A strong believer in open source and community collaboration, I'm always eager to learn and explore new technologies. I'm excited for future opportunities and available to discuss interesting projects!
 
 
 # 💻 Tech Stack:
